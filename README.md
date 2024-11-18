@@ -28,8 +28,6 @@
 
 ![WellBrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellBrian&show_icons=true&theme=radical)
 
-![WellBrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellBrian&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellBrian&layout=compact&theme=radical)
 
 ### 📊 Recent GitHub Activity
