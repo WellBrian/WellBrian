@@ -28,15 +28,14 @@
 
 ![WellBrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellBrian&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WellBrian&theme=radical)](https://git.io/streak-stats)
+![WellBrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellBrian&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellBrian&layout=compact&theme=radical)
 
 ### 📊 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/your-repo) in `your-repo`
-2. 💪 Opened PR [#456](https://github.com/another-repo) in `another-repo`
 <!--END_SECTION:activity-->
+
 
 <p>If I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/brianouko7d" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
