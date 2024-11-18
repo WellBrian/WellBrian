@@ -30,13 +30,25 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellBrian&layout=compact&theme=radical)
 
-### 📊 Recent GitHub Activity
+### 📊 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+### 🚀 Stats and Badges
+![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=flat-square)
+![Forks](https://img.shields.io/github/forks/your-username/your-repo?style=flat-square)
+![Issues](https://img.shields.io/github/issues/your-username/your-repo?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo?style=flat-square)
+![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Active-brightgreen?style=flat-square)
 
-<p>If I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
-<a href="https://www.buymeacoffee.com/brianouko7d" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### 🛠 GitHub Actions Metrics
+![Unique Users](https://img.shields.io/badge/Unique%20Users-100-brightgreen)
+![Total Runs](https://img.shields.io/github/workflow/status/your-username/your-repo/CI?label=Runs&style=flat-square)
+![Success Rate](https://img.shields.io/badge/Success-95%25-brightgreen)
+
+### 💬 Discord Community
+![Discord](https://img.shields.io/discord/your-server-id?label=Chat&style=flat-square)
+
 
 
 <!---
